@@ -1,6 +1,6 @@
 # Programação Web III 
 
-Repositório da disciplina de programação web III da IFPE Campus Jaboatão dos Guararapes 
+Repositório com integração entre front-end e back-end utilizando Jaavscript 
 
 
 # Ementa
@@ -62,4 +62,5 @@ Repositório da disciplina de programação web III da IFPE Campus Jaboatão dos
 # Livros
 
 * ng-book The Complete Guide to Angular [material](https://jre-training.com/Angular/Documents/ng-book.pdf)
+
 * NodeJS aplicações web real time com node js [material](https://github.com/free-educa/books/blob/main/books/Node.js%20-%20Aplica%C3%A7%C3%B5es%20web%20real-tome%20com%20Node.js.pdf)
